@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb://localhost/cloud-disk",
+  "secretKey": "secretJWT",
+  "filePath": "C:\\Users\\Навруз\\Desktop\\My home projects\\cloud-disk\\server\\files"
+}
